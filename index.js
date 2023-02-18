@@ -1,3 +1,4 @@
-  function sum(a,b){
+function sum(a,b){
+	console.log("hello mouihbi");
 			  console.log("hello world ");
 }
